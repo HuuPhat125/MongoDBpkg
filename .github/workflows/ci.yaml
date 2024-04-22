@@ -1,5 +1,3 @@
-# continous integrate
-
 name: Python application
 
 on:
